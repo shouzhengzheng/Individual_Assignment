@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background-image: url("deepavali_background.jpg");
+    background-size:1920px 1080px ;
+    
+}
+
+.text1{
+    text-shadow: 5px 5px rgb(18, 6, 85);
+    position:absolute;
+    top: 20%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    font-size:50px;
+    font-family: inherit;
+    color: rgba(0, 255, 106, 0.767);
+}   
+
+.whatsappbutton{
+    display:flex;
+    position:absolute;
+    top: 73%;
+    left:48%;
+
+}
+
+img{
+    width:50px;
+}
+
+#name{
+    display:flex;
+    justify-content: center;
+    position:absolute;
+    top: 65%;
+    left:39%;
+    height:50px;  
+    font-size: 20px;  
+    text-align: center;
+}

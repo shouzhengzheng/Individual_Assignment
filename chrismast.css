@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    background-image: url("christmas_background.jpg");
+    background-size:1920px 1080px ;
+    
+}
+
+.text1{
+    text-shadow: 5px 5px black;
+    position:absolute;
+    top: 50%;
+    left: 70%;
+    transform:translate(-50%,-50%);
+    font-size:50px;
+    font-family: inherit;
+    color: rgb(255, 0, 0);
+}  
+
+.whatsappbutton{
+    display:flex;
+    position:absolute;
+    top: 73%;
+    left:65%;
+
+}
+
+
+
+
+img{
+    width:50px; 
+}
+
+#name{
+    display:flex;
+    justify-content: center;
+    position:absolute;
+    top: 65%;
+    left:55.6%;
+    height:50px;  
+    font-size: 20px;  
+    text-align: center;
+}
+

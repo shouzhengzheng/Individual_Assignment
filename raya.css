@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    background-image: url("raya_background.jpg");
+    background-size:1920px 1080px ;
+    
+}
+
+
+.text2{
+    justify-content: center;
+    align-items: center;
+    text-shadow: 5px 5px rgb(0, 12, 7);
+    position:absolute;
+    top: 20%;
+    left: 52%;
+    transform:translate(-50%,-50%);
+    font-size:50px;
+    font-family: inherit;
+    color: rgb(72, 255, 0);
+}  
+
+.whatsappbutton{
+    display:flex;
+    position:absolute;
+    top: 73%;
+    left:48%;
+
+}
+
+
+
+
+img{
+    width:50px;
+}
+
+#name{
+    display:flex;
+    justify-content: center;
+    position:absolute;
+    top: 65%;
+    left:39%;
+    height:50px;  
+    font-size: 20px;  
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    background-image: url("CNY_background.jpg");
+    background-size:1920px 1080px ;
+    
+}
+
+.text1{
+    text-shadow: 5px 5px rgb(3, 3, 3);
+    position:absolute;
+    top: 20%;
+    left: 35%;
+    transform:translate(-50%,-50%);
+    font-size:50px;
+    font-family: inherit;
+    color: rgb(251, 255, 0);
+}   
+
+.whatsappbutton{
+   
+    position:absolute;
+    top: 73%;
+    left:13%;
+
+}
+
+img{
+    width:50px;
+}
+
+#name{
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    top: 65%;
+    left:0%;
+    height:50px;  
+    font-size: 20;  
+    text-align: center;
+}
